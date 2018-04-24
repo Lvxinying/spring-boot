@@ -3,7 +3,7 @@ loging:
   file: demo
 spring:
   application:
-    name: billing
+    name: spring-client
   jdbc:
     host: localhost
     password: 123qwe
