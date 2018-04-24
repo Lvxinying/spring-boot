@@ -1,0 +1,11 @@
+devMode: 'true'
+loging:
+  file: demo
+spring:
+  application:
+    name: billing
+  jdbc:
+    host: localhost
+    password: 123qwe
+    port: '3306'
+    user: root
